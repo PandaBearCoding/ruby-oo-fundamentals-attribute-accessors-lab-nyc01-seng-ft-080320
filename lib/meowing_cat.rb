@@ -1,3 +1,15 @@
 ## code your solution here. 
-attr_accessor :name
+class cat
+  attr_accessor :name
 
+  def initialize(name)
+    @name = name
+  end
+  
+  
+  
+  
+end
+    
+    
+Cat.new = 
