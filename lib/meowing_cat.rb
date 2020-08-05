@@ -13,3 +13,6 @@ end
     
     
 Cat.new = 
+
+
+derek = Doctor.new("derek", "internal", 5)
